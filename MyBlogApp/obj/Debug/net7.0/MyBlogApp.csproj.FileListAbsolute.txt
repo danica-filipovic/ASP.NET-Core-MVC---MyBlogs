@@ -1,0 +1,150 @@
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.staticwebassets.runtime.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.exe
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.deps.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.runtimeconfig.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.pdb
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.AssemblyInfoInputs.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.AssemblyInfo.cs
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.CoreCompileInputs.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.RazorAssemblyInfo.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.RazorAssemblyInfo.cs
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.MyBlogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\bundle\MyBlogApp.styles.css
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\projectbundle\MyBlogApp.bundle.scp.css
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\refint\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.pdb
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.genruntimeconfig.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\ref\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.AssemblyReference.cache
+C:\Users\Danica Filipovic\source\repos\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.CopyComplete
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.staticwebassets.runtime.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.exe
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.deps.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.runtimeconfig.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\MyBlogApp.pdb
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.AssemblyReference.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.AssemblyInfoInputs.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.AssemblyInfo.cs
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.CoreCompileInputs.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.RazorAssemblyInfo.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.RazorAssemblyInfo.cs
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.MyBlogApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyBlogApp.props
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\bundle\MyBlogApp.styles.css
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\scopedcss\projectbundle\MyBlogApp.bundle.scp.css
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.csproj.CopyComplete
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\refint\MyBlogApp.dll
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.pdb
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\MyBlogApp.genruntimeconfig.cache
+C:\Users\Danica Filipovic\source\repos\New Projects\MVC .NET CORE - MyBlogs\MyBlogApp\obj\Debug\net7.0\ref\MyBlogApp.dll
